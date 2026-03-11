@@ -21,13 +21,13 @@ export default function AboutPage() {
                 Our Story
               </h2>
               <p className="text-lg text-gray-600 mb-4 leading-relaxed">
-                Decora was founded with a simple mission: to transform spaces into stunning, functional, and personalized environments that reflect the unique style and personality of each client.
+                Decora was founded with a simple mission: to transform spaces into stunning, functional, and personalized environments that reflect the unique style and personality of each client. Based in Dubai, we bring international expertise to the heart of the Middle East.
               </p>
               <p className="text-lg text-gray-600 mb-4 leading-relaxed">
-                With 18 years of experience in the interior design industry, our team has developed a deep understanding of how great design impacts the way people live and work. We've worked on everything from intimate residential spaces to large commercial projects, each one teaching us something new.
+                With 18 years of experience in the interior design industry, our team has developed a deep understanding of how great design impacts the way people live and work. Led by Shahzad and Nisha, we've worked on everything from intimate residential spaces to large commercial projects, each one teaching us something new.
               </p>
               <p className="text-lg text-gray-600 leading-relaxed">
-                Today, we're committed to combining creativity, functionality, and sustainability in every project we undertake. We believe that design should be accessible, personalized, and transformative.
+                Today, we're committed to combining creativity, functionality, and sustainability in every project we undertake. From our offices in Business Bay, Dubai, we believe that design should be accessible, personalized, and transformative.
               </p>
             </div>
             <div>

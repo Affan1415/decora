@@ -35,8 +35,16 @@ export default function Footer() {
           <div>
             <h3 className="font-bold text-lg mb-4">Contact</h3>
             <ul className="space-y-2 text-gray-400">
-              <li>Phone: <span className="text-primary">1800.899.900</span></li>
-              <li>Email: <a href="mailto:info@decora.com" className="text-primary hover:underline">info@decora.com</a></li>
+              <li>Phone: <a href="tel:+971586297143" className="text-primary hover:underline">+971 58 6297143</a></li>
+              <li>
+                <div className="text-primary">
+                  <a href="mailto:shahzad@decorainterior.com" className="block hover:underline">shahzad@decorainterior.com</a>
+                  <a href="mailto:nisha@decorainterior.com" className="block hover:underline">nisha@decorainterior.com</a>
+                </div>
+              </li>
+              <li className="text-sm text-gray-500">
+                Shoba Ivory II, Business Bay<br />Dubai – UAE
+              </li>
               <li className="pt-4">
                 <div className="flex gap-4">
                   <a href="#" className="hover:text-primary transition"><i className="fab fa-facebook-f"></i></a>

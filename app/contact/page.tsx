@@ -72,15 +72,27 @@ export default function ContactPage() {
               <div className="space-y-6">
                 <div>
                   <p className="text-gray-600 text-sm mb-2">Phone</p>
-                  <a href="tel:1800899900" className="text-lg font-semibold text-primary hover:text-yellow-400">
-                    1800.899.900
+                  <a href="tel:+971586297143" className="text-lg font-semibold text-primary hover:text-yellow-400">
+                    +971 58 6297143
                   </a>
                 </div>
                 <div>
                   <p className="text-gray-600 text-sm mb-2">Email</p>
-                  <a href="mailto:info@decora.com" className="text-lg font-semibold text-primary hover:text-yellow-400">
-                    info@decora.com
-                  </a>
+                  <div className="space-y-2">
+                    <a href="mailto:shahzad@decorainterior.com" className="block text-lg font-semibold text-primary hover:text-yellow-400">
+                      shahzad@decorainterior.com
+                    </a>
+                    <a href="mailto:nisha@decorainterior.com" className="block text-lg font-semibold text-primary hover:text-yellow-400">
+                      nisha@decorainterior.com
+                    </a>
+                  </div>
+                </div>
+                <div>
+                  <p className="text-gray-600 text-sm mb-2">Address</p>
+                  <p className="text-lg font-semibold text-dark">
+                    1107, Shoba Ivory II Building<br />
+                    Business Bay, Dubai – UAE
+                  </p>
                 </div>
                 <div>
                   <p className="text-gray-600 text-sm mb-2">Working Hours</p>

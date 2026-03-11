@@ -35,7 +35,7 @@ export default function Header() {
         <div className="container mx-auto px-4 flex justify-between items-center">
           <div className="flex gap-8">
             <span>Working Hours Monday - Friday <strong className="text-primary">08:00-16:00</strong></span>
-            <span>Toll Free <strong className="text-primary">1800.899.900</strong></span>
+            <span>Call Us <strong className="text-primary">+971 58 6297143</strong></span>
           </div>
           <div className="flex gap-4">
             <a href="#" className="hover:text-primary transition"><i className="fab fa-facebook-f"></i></a>
